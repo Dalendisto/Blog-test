@@ -1,10 +1,11 @@
 ---
-title: Birds
-description: At vero eos et accusamus et iusto odio dignissimos ducimus qui
-  blanditiis praesentium.
-author: John Doe
-published: 2022-10-01
-image: /images/birds.jpg
+{
+  "author": "John Doe",
+  "title": "Birds",
+  "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium.",
+  "published": "2022-10-01",
+  "image": "/images/birds.jpg"
+}
 ---
 
 
