@@ -4,7 +4,7 @@ description: At vero eos et accusamus et iusto odio dignissimos ducimus qui
   blanditiis praesentium.
 author: John Doe
 published: 2022-10-01
-image: images/car.jpg
+image: /images/car.jpg
 ---
 ### Cars
 
